@@ -16,7 +16,7 @@ const SecondSection = ({handleOrderClick}) => {
 						/>
 					</div>
 
-					<div className='absolute -left-10 sd:bottom-28  xz:bottom-96 z-10'>
+					<div className='absolute -left-10 sd:bottom-28  xz:bottom-96 xy:bottom-[26rem] z-10'>
 						<Image src='/lines.svg' alt='Линии' width={150} height={150} className="" />
 					</div>
 

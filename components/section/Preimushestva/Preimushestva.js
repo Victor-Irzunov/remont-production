@@ -19,7 +19,7 @@ export default function Preimushestva() {
 					<div className='flex sd:flex-row xz:flex-col mb-6'>
 
 						<div className="rounded-none card lg:card-side bg-base-100 shadow-2xl px-3 sd:mb-0 xz:mb-6 sd:pt-0 xz:pt-5 sd:mx-2 xz:mx-0 sd:w-1/2 xz:w-full">
-							<figure><img src="/Preimushestva/quality2.svg" alt="Качество ремонта" /></figure>
+							<figure><img src="/public/Preimushestva/quality2.svg" alt="Качество ремонта" /></figure>
 							<div className="card-body text-black sd:w-8/12 xz:w-full">
 								<h2 className="card-title">
 									Качество работ
@@ -31,7 +31,7 @@ export default function Preimushestva() {
 						</div>
 
 						<div className="rounded-none card lg:card-side bg-base-100 shadow-2xl px-3 sd:pt-0 xz:pt-5 sd:mx-2 xz:mx-0 sd:w-1/2 xz:w-full">
-							<figure><img src="/Preimushestva/piggy.svg" alt="Экономия ремонте" /></figure>
+							<figure><img src="/public/Preimushestva/piggy.svg" alt="Экономия ремонте" /></figure>
 							<div className="card-body text-black  sd:w-8/12 xz:w-full">
 								<h2 className="card-title">
 									Экономия на ремонте
@@ -47,7 +47,7 @@ export default function Preimushestva() {
 					<div className='flex sd:flex-row xz:flex-col'>
 
 						<div className="rounded-none card lg:card-side bg-base-100 shadow-2xl px-3 sd:mb-0 xz:mb-6 sd:pt-0 xz:pt-5 sd:mx-2 xz:mx-0 sd:w-1/2 xz:w-full">
-							<figure><img src="/Preimushestva/time.svg" alt="Сроки ремонта" /></figure>
+							<figure><img src="/public/Preimushestva/time.svg" alt="Сроки ремонта" /></figure>
 							<div className="card-body text-black  sd:w-8/12 xz:w-full">
 								<h2 className="card-title">
 									Сроки ремонта
@@ -60,7 +60,7 @@ export default function Preimushestva() {
 
 
 						<div className="rounded-none card lg:card-side bg-base-100 shadow-2xl px-3 sd:pt-0 xz:pt-5 sd:mx-2 xz:mx-0 sd:w-1/2 xz:w-full">
-							<figure><img src="/Preimushestva/suitcase.svg" alt="Опыт мастеров" /></figure>
+							<figure><img src="/public/Preimushestva/suitcase.svg" alt="Опыт мастеров" /></figure>
 							<div className="card-body text-black sd:w-8/12 xz:w-full">
 								<h2 className="card-title">
 									Опыт мастеров

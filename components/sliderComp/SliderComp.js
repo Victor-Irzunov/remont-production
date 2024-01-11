@@ -25,7 +25,7 @@ const responsive = {
 
 const SliderComp = () => {
 	return (
-		<section className='py-10 bg-white'>
+		<section className='py-10 bg-white' id="otzyvy">
 			<div className='container mx-auto'>
 
 				<h4 className='text-center text-2xl sm:text-4xl font-bold mb-14 uppercase text-black'>

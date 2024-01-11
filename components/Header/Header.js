@@ -36,20 +36,6 @@ export default function Header() {
 								</li>
 								<li>
 									<LinkScroll
-										to="catalog"
-										smooth={true}
-										offset={-100}
-										duration={800}
-										className="cursor-pointer hover:bg-slate-300"
-										rel="nofollow"
-										href='#/'
-									>
-										Услуги
-									</LinkScroll>
-								</li>
-
-								<li>
-									<LinkScroll
 										to="preimushestva"
 										smooth={true}
 										offset={-100}
@@ -59,6 +45,20 @@ export default function Header() {
 										href='#/'
 									>
 										Преимущества
+									</LinkScroll>
+								</li>
+
+								<li>
+									<LinkScroll
+										to="otzyvy"
+										smooth={true}
+										offset={-100}
+										duration={800}
+										className="cursor-pointer hover:bg-slate-300"
+										rel="nofollow"
+										href='#/'
+									>
+										Отзывы
 									</LinkScroll>
 								</li>
 								<li>

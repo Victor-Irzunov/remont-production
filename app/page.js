@@ -22,7 +22,7 @@ export default function Home() {
     document.getElementById("my_modal_3").close();
   };
   return (
-    <main className="overflow-x-hidden">
+    <main className="overflow-x-hidden" id='main'>
       <section className="sd:min-h-screen xz:h-auto xz:pb-36 xz:pt-12 sd:pb-0 sd:pt-0 xz: hero" style={{ backgroundImage: 'url("/background/fon.webp")' }}>
         <div className='container mx-auto'>
           <div className="flex sd:justify-end xz:justify-start flex-wrap">

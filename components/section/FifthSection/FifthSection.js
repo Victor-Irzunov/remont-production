@@ -3,7 +3,7 @@ import { BtnComp } from "@/components/btn/BtnComp"
 
 const FifthSection = ({handleOrderClick}) => {
 	return (
-		<section className="bg-[#d9d9d9] sd:py-28 xz:py-16 sd:min-h-[190vh] xz:min-h-[165vh]">
+		<section className="bg-[#d9d9d9] sd:py-28 xz:py-16 sd:min-h-[190vh] xz:min-h-[165vh] xy:min-h-[148vh]">
 			<div className='container mx-auto relative z-40'>
 
 				<div className='absolute left-0 top-0 z-10 shadow-2xl'>
@@ -38,7 +38,7 @@ const FifthSection = ({handleOrderClick}) => {
 					</div>
 				</div>
 
-				<div className='absolute sd:left-40 xz:-left-4 top-[50rem] -z-10  shadow-2xl'>
+				<div className='absolute sd:left-40 xz:-left-2 sd:top-[50rem] xz:top-[51rem]  xy:top-[47rem] -z-10  shadow-2xl'>
 					<img
 						src='/fifthSection/8.webp'
 						alt='Помощь в подборе материалов для ремонта'

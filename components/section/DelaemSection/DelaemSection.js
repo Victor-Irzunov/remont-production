@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const DelaemSection = () => {
 	return (
-		<section className="bg-white relative sd:min-h-[60vh] xz:min-h-[220vh] xy:min-h-[170vh]">
+		<section className="bg-white relative sd:min-h-[60vh] xz:min-h-[210vh] xy:min-h-[170vh]">
 			<div className='container mx-auto absolute -top-8 left-0 right-0'>
 
 				<div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 lg:gap-8 xl:gap-10'>

@@ -3,7 +3,7 @@ import { BtnComp } from "@/components/btn/BtnComp"
 
 const FifthSection = ({handleOrderClick}) => {
 	return (
-		<section className="bg-[#d9d9d9] sd:py-28 xz:py-16 sd:min-h-[190vh] xz:min-h-[165vh] xy:min-h-[148vh]">
+		<section className="bg-[#d9d9d9] sd:py-28 xz:py-16 sd:min-h-[190vh] xz:min-h-[165vh] xy:min-h-[144vh]">
 			<div className='container mx-auto relative z-40'>
 
 				<div className='absolute left-0 top-0 z-10 shadow-2xl'>

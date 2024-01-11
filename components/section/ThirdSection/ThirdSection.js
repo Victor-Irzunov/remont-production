@@ -31,7 +31,7 @@ const ThirdSection = ({handleOrderClick}) => {
 							<img src='/thirdSection/3.webp' alt='Ремонт офиса' className="sd:w-[400px] xz:w-[250px]" />
 						</div>
 
-						<div className='absolute sd:z-10 xz:-z-10 sd:-bottom-[140vh] xz:-bottom-[52rem] sd:-right-72 xz:-right-4 shadow-2xl'>
+						<div className='absolute sd:z-10 xz:-z-10 sd:-bottom-[140vh] xz:-bottom-[52rem] xy:-bottom-[55rem] sd:-right-72 xz:-right-4 shadow-2xl'>
 							<img src='/thirdSection/4.webp' alt='Ремонт под ключ' className="sd:w-[700px] xz:w-[300px]" />
 						</div>
 

@@ -16,11 +16,11 @@ const SecondSection = ({handleOrderClick}) => {
 						/>
 					</div>
 
-					<div className='absolute sd:-left-10 xz:left-0 sd:bottom-28  xz:bottom-96 xy:bottom-[26rem] z-10'>
+					<div className='absolute sd:-left-10 xz:left-0 sd:bottom-28  xz:bottom-96 xy:bottom-[29rem] z-10'>
 						<Image src='/lines.svg' alt='Линии' width={150} height={150} className="" />
 					</div>
 
-					<div className='absolute right-0 sd:bottom-20 xz:-bottom-20 z-30'>
+					<div className='absolute right-0 sd:bottom-20 xz:-bottom-16 xy:-bottom-0 z-30'>
 						<div className="card sd:w-96 xz:w-auto rounded-none shadow-xl bg-white">
 							<div className="card-body text-black">
 								<h2 className="card-title">

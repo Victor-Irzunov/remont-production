@@ -15,13 +15,13 @@ const FourthSection = ({handleOrderClick}) => {
 						/>
 					</div>
 
-					<div className='absolute -left-30 sd:bottom-28 xy:bottom-[26rem] xz:bottom-[30rem] z-10'>
+					<div className='absolute -left-30 sd:bottom-28 xy:bottom-[29rem] xz:bottom-[30rem] z-10'>
 						<Image src='/lines.svg' alt='Линии' width={150} height={150} className="" />
 					</div>
 
 					<div className='h-80 w-[40rem] z-10 sd:block xz:hidden bg-white absolute sd:right-0 xz:right-0 bottom-0' />
 
-					<div className='absolute sd:right-48 xz:right-0 sd:bottom-40 xy:bottom-6 xz:bottom-0 z-30'>
+					<div className='absolute sd:right-48 xz:right-0 sd:bottom-40 xy:bottom-16 xz:bottom-0 z-30'>
 						<div className="card sd:w-96 xz:w-auto rounded-none shadow-xl bg-white">
 							<div className="card-body text-black">
 								<h2 className="card-title">
